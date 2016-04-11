@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-7.8.0_2d653ccd5ec91527c15f9fc686093f1735e5daaf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-7.8.0_068df032d3a6e6e10903631cd710dd42c83cda62.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_007f3b46915d7cb6d05cbc8fc2001ea5ab471255.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\beta\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b7a78990c10481f43cb4909f535ef4f11e60f1ab">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-beta-1.1.3_0f7f5ebf720625286cb63b147b4c2eda5b0f98e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.0_f46e6c7154147fe6d6b40f2e444e134c145ada2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-core\4.48\e579bd2905d0399af5029aaaf9817d5fa0ca88a5\ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\ormlite-core-4.48_c5291d3547f5470c1ead1ac509270bf7047833e7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-7.8.0_08abbb2137834532bd391acde733205ef5dd9bc7.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\commons-io\commons-io\2.4\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\commons-io-2.4_b2955a73e8fdec69863902c786dced8321b28c5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-7.8.0_f7e6a6954c5ea009f5986db5e31faf0d00d3880d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics-core\2.3.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3013d965c748748ec9c7d0d42102e9abd1c9ed91">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-crashlytics-core-2.3.3_48f3269e714dbc02eebe54e0d1b31cbe0bd036e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\.gradle\caches\modules-2\files-2.1\org.simpleframework\simple-xml\2.7.1\dd91fb744c2ff921407475cb29a1e3fee397d411\simple-xml-2.7.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dd91fb744c2ff921407475cb29a1e3fee397d411">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\simple-xml-2.7.1_d6b005b09d1d82af5675c8c9c146c8039109742e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-android\4.48\afa06f539a4026c10b247386312aa67404b80a16\ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\ormlite-android-4.48_b2e4615e353bf9fff3103335673ea0950b731f89.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_82263408ed97fff189a74a2aa837991746eabb4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.0_c691399ddaeca36f45b2ac9557e26d953fc500b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-7.8.0_fe4bcee5a67fddaf157cf3064fa1c16c522bb66f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\AppData\Local\Android\sdk2\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_755cd510b5408b50f26f1ec35027d9c2c8dd0b93.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-7.8.0_4f68d3ff987812a6029a7e0f43a1866374b50fa7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-7.8.0_56d21951c83686682668d464d43214febba205e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics\2.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fd39f74f23c7bd9aeafe58c6d988a7329c3e2790">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-crashlytics-2.4.0_d2d85b94d682aa2ab14e0f52eae701dd191d159e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-7.8.0_95402bcbecd12e01359156920d10b8f89335693c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-7.8.0_7efe6964d349e4082431127869d457eec996ac94.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\Guide\pinterest_lib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bf5ffe77eada496c8481018c7af2665e1d9fedcf">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\Guide-pinterest_lib-unspecified_53d3181f27592e7d4b8ef17e1266d516198a820b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-21.0.3_1e8bf6925fd41f4c8da83e5f4987bf4c1309d5f8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-7.8.0_385eb141d57b0c23c01cfd4a529b37e1b7765857.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-7.8.0_53aed84c17ecd1d7c87f470a3df357050868214c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-7.8.0_87ee2a162b381bd69c27e4a3d8c28796944d3358.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\answers\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c364019628ff5b32e4930334e9db4680829f7115">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-answers-1.2.2_53356818146e6c7ad40c69de98b30bd32a7c2ff3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-7.8.0_60794574abc334daa8a788f1c9ddf083611ed71f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-7.8.0_f36d786b96676d5cad884074a0f79d71f72f56d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appstate-7.8.0_4728cee94607b483d85d1a38c28a0967092bc65e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-7.8.0_6ada358677be1b62629bdae71e8eaffbcd584837.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-7.8.0_2b5b512bbaaa01f102c7297bc28035207a047553.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-7.8.0_1fe509a18faee0ebc349312368e4979f49136a1e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-22.2.0_efa620e7b7f18fd51d21d85e2f33e17cbaf3e5dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\libs\universal-image-loader-1.8.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="09995ba681982ca129af798c9eb21e79c4bffa45">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.8.6_f11aed0f87b22138fb19326bd117cad206d90e26.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_30f985484b998597871d63f36512cbb43cfc668c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-7.8.0_47d964fd0896080613bf5d16a448cfccf5b004af.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-7.8.0_634b37e843321f3e2864e0a55e72cc67d37727a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-7.8.0_793eba232253174d8b58ca8a392230a67a528356.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.4\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f7dc6b43d7c7f3d94e98531aef88269f9ed2a37b">
+        <dex dex="C:\Users\Mighty\Desktop\Asian\Guide\app\build\intermediates\pre-dexed\debug\io.fabric.sdk.android-fabric-1.3.4_2f8a52e6652bac9147b837bda8dd2b9778c30f9d.jar" />
+    </item>
+
+</items>
